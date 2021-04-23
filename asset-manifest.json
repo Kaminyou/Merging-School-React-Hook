@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Merging-School-React-Hook/static/css/main.0803488e.chunk.css",
+    "main.js": "/Merging-School-React-Hook/static/js/main.18e9bb22.chunk.js",
+    "main.js.map": "/Merging-School-React-Hook/static/js/main.18e9bb22.chunk.js.map",
+    "runtime-main.js": "/Merging-School-React-Hook/static/js/runtime-main.adf7668e.js",
+    "runtime-main.js.map": "/Merging-School-React-Hook/static/js/runtime-main.adf7668e.js.map",
+    "static/js/2.a2df8235.chunk.js": "/Merging-School-React-Hook/static/js/2.a2df8235.chunk.js",
+    "static/js/2.a2df8235.chunk.js.map": "/Merging-School-React-Hook/static/js/2.a2df8235.chunk.js.map",
+    "static/js/3.44665646.chunk.js": "/Merging-School-React-Hook/static/js/3.44665646.chunk.js",
+    "static/js/3.44665646.chunk.js.map": "/Merging-School-React-Hook/static/js/3.44665646.chunk.js.map",
+    "index.html": "/Merging-School-React-Hook/index.html",
+    "static/css/main.0803488e.chunk.css.map": "/Merging-School-React-Hook/static/css/main.0803488e.chunk.css.map",
+    "static/js/2.a2df8235.chunk.js.LICENSE.txt": "/Merging-School-React-Hook/static/js/2.a2df8235.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf7668e.js",
+    "static/js/2.a2df8235.chunk.js",
+    "static/css/main.0803488e.chunk.css",
+    "static/js/main.18e9bb22.chunk.js"
+  ]
+}
